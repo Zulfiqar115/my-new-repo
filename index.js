@@ -1,3 +1,4 @@
+#!/usr/bin/env nod
 import inquirer from 'inquirer';
 import { faker } from '@faker-js/faker';
 const createUser = () => {
